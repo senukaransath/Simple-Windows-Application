@@ -1,4 +1,4 @@
-# cusapp
+# Simple Windows Application
 
 Login form
   Username - admin
